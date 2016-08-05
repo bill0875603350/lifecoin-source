@@ -1,0 +1,9 @@
+Building lifecoin
+
+See doc/readme-qt.rst for instructions on building lifecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of lifecoin.
+
+See doc/build-*.txt for instructions on building lifecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of lifecoin.
